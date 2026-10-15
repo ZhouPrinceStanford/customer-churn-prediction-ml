@@ -7,3 +7,6 @@ venv/
 .vscode/
 .DS_Store
 Thumbs.db
+
+# Local model-testing environment
+.venv-model-test/

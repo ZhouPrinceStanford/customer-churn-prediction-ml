@@ -1,0 +1,7 @@
+{
+  "threshold": 0.3,
+  "scikit_learn_version": "1.9.0",
+  "xgboost_version": "3.4.1",
+  "preprocessor_file": "churn_preprocessor.joblib",
+  "model_file": "churn_xgboost_native.json"
+}
